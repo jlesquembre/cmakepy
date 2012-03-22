@@ -32,11 +32,10 @@ setup(
     # metadata for upload to PyPI
     author = "Jose Luis Lafuente",
     author_email = "joseluis@japeto.com",
-    description = "Creates a basic cmake project",
+    description = "Creates a new cmake project",
     license = "GPLv3",
-    keywords = "cmake",
-    url = "http://example.com/",   # project home page, if any
-
-    #include_package_data = True
+    keywords = "cmake c++",
+    url = "https://github.com/jlesquembre/cmakepy",   
+    
     # could also include long_description, download_url, classifiers, etc.
 ) 
