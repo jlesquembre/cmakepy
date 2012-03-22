@@ -1,7 +1,7 @@
 cmake.py
 --------
 
-cmake.py is a  utility in Python to create a basic cmake project. Tested with 2.7 and 3.2
+cmake.py is a  utility in Python to create a new cmake project. Tested with 2.7 and 3.2
 
 ### Installation
 
